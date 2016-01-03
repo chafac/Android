@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mobile_projet</string>
+    <string name="action_settings">Options</string>
+    <string name="hello_world">Salut Terre!</string>
+    <string name="button_text">Clique</string>
+    <string name="notify_text">Notification</string>
+    <string name="biers_update">Mis à Jour des Bières</string>
+    <string name="notification">Fin telechargement</string>
+    <string name="description_notif">Fin de téléchargement fichier json</string>
+</resources>

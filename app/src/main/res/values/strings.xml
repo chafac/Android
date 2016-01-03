@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Projet-Mobile</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Bonne année!</string>
+    <string name="button_text">Click</string>
+    <string name="notify_text">Notification</string>
+    <string name="biers_update">biers update</string>
+    <string name="title_activity_second">Liste de Biere</string>
+    <string name="txt_second">Contenu du json</string>
+</resources>
